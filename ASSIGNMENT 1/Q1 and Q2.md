@@ -1,2 +1,1 @@
-<img src="./vlekr0s0.png"
-style="width:8.16326in;height:11.69444in" />
+![image](https://github.com/user-attachments/assets/f457627e-e5d9-4b1a-95da-f061cf0ec183)
